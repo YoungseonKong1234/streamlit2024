@@ -7,3 +7,6 @@ def show() :
   if clicked :
     n = random.randint(1, 6)
     st.image(f'./img/{n}.png')
+
+
+    
